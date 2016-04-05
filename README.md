@@ -1,1 +1,1 @@
-My public wiki with no actual purpose.
+My public wiki/test repo with no actual purpose.
